@@ -77,7 +77,7 @@ export const Navbar = ({ openNav }: Props) => {
           transition={{ delay: 0.2, duration: 0.4 }}
         >
           <Link href="#hero" className="flex items-center space-x-1">
-          <Image src="/logo.png" alt="Abdul Tech" width={32} height={32} />
+          <Image src="/Logo.png" alt="Abdul Tech" width={32} height={32} />
             {/* White Abdul Tech */}
             <span className="text-xl font-bold text-primary">Abdul Tech</span>
 

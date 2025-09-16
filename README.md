@@ -29,26 +29,6 @@ The project is styled with **Tailwind CSS**, enhanced with **Framer Motion**, an
 
 ---
 
-## 📦 Getting Started  
-
-Clone the repository and install dependencies:  
-
-```bash
-git clone https://github.com/your-username/portfolio.git
-cd portfolio
-npm install
-```
-
-Run the development server:  
-
-```bash
-npm run dev
-```
-
-Visit: [http://localhost:3000](http://localhost:3000)  
-
----
-
 ## 🌐 Deployment  
 
 Easiest way to deploy is via [Vercel](https://vercel.com):  
@@ -90,6 +70,6 @@ public/           # Static assets (images, icons, preview screenshots)
 If you’d like to collaborate or hire me:  
 
 - 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)  
-- 💼 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)  
-- 🐙 GitHub: [github.com/yourusername](https://github.com/yourusername)  
-- ✉️ Email: your.email@example.com  
+- 💼 LinkedIn: [linkedin.com/in/abdulbasit-codes/](https://www.linkedin.com/in/abdulbasit-codes/)  
+- 🐙 GitHub: [github.com/abdud099](https://github.com/abdud099)  
+- ✉️ Email: abdud099@gmail.com  
