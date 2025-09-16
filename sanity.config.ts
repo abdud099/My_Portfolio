@@ -13,14 +13,6 @@ import { apiVersion, dataset, projectId } from "./src/sanity/env";
 import { schema } from "./src/sanity/schemaTypes/index";
 import { structure } from "./src/sanity/structure";
 
-// 👉 Import your custom schema(s)
-// import { skillType } from "./src/sanity/schemaTypes/skillType";
-
-// If you have multiple schemas, you can put them here OR use `./src/sanity/schemaTypes`
-// const schema = {
-//   types: [skillType], // ✅ Add skill schema
-// };
-
 export default defineConfig({
   basePath: "/studio",
   projectId,
