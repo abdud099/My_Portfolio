@@ -1,13 +1,13 @@
-# 🚀 Abdul Basit | Tech Portfolio  
+# 🚀 Abdul Basit | Tech Portfolio
 
-![Portfolio Banner](./public/preview.png)   
+![Portfolio Banner](./public/preview.png)
 
 This is my personal **portfolio website** built with [Next.js](https://nextjs.org), showcasing my **projects, skills, and experience** as a **Full-Stack Developer & Data Scientist**.  
-The project is styled with **Tailwind CSS**, enhanced with **Framer Motion**, and connected with **Sanity CMS** for content management.  
+The project is styled with **Tailwind CSS**, enhanced with **Framer Motion**, and connected with **Sanity CMS** for content management.
 
 ---
 
-## 🛠 Tech Stack  
+## 🛠 Tech Stack
 
 ![Next.js](https://img.shields.io/badge/Next.js-15-black?style=flat&logo=next.js)  
 ![React](https://img.shields.io/badge/React-19-61DAFB?style=flat&logo=react&logoColor=black)  
@@ -15,44 +15,44 @@ The project is styled with **Tailwind CSS**, enhanced with **Framer Motion**, an
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-4-38B2AC?style=flat&logo=tailwind-css)  
 ![Sanity](https://img.shields.io/badge/Sanity-CMS-F03E2F?style=flat&logo=sanity)  
 ![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=flat&logo=styled-components)  
-![Framer Motion](https://img.shields.io/badge/Framer--Motion-Animation-FF69B4?style=flat&logo=framer)  
+![Framer Motion](https://img.shields.io/badge/Framer--Motion-Animation-FF69B4?style=flat&logo=framer)
 
-- **Framework**: [Next.js 15](https://nextjs.org) (App Router)  
-- **Languages**: TypeScript, JavaScript (ES6+)  
-- **Styling**: Tailwind CSS, Styled Components, Tailwind Merge  
-- **UI Components**: Radix UI, Lucide Icons, Sanity UI  
-- **CMS**: [Sanity](https://www.sanity.io/)  
-- **Animation**: Motion (Framer Motion-compatible)  
-- **Slider**: Keen Slider  
-- **Other Tools**: ESLint, PostCSS  
+- **Framework**: [Next.js 15](https://nextjs.org) (App Router)
+- **Languages**: TypeScript, JavaScript (ES6+)
+- **Styling**: Tailwind CSS, Styled Components, Tailwind Merge
+- **UI Components**: Radix UI, Lucide Icons, Sanity UI
+- **CMS**: [Sanity](https://www.sanity.io/)
+- **Animation**: Motion (Framer Motion-compatible)
+- **Slider**: Keen Slider
+- **Other Tools**: ESLint, PostCSS
 
 ---
 
-## 🌐 Deployment  
+## 🌐 Deployment
 
-Easiest way to deploy is via [Vercel](https://vercel.com):  
+Easiest way to deploy is via [Vercel](https://vercel.com):
 
 ```bash
 npm run build
 npm start
 ```
 
-Live Demo: [your-portfolio-link.vercel.app](https://your-portfolio-link.vercel.app)  
+Live Demo: [my-portfolio-link.com](https://my-portfolio-2ac5ob1mu-basitmaliks-projects-774a8708.vercel.app/)
 
 ---
 
-## ✨ Features  
+## ✨ Features
 
-- 🎨 Modern, responsive UI with Tailwind CSS  
-- 🔥 Smooth animations with Motion  
-- 📰 Dynamic content via Sanity CMS  
-- 🖼 Optimized images with Next.js Image  
-- ⚡ SEO-friendly metadata setup  
-- 🚀 Deployed on Vercel  
+- 🎨 Modern, responsive UI with Tailwind CSS
+- 🔥 Smooth animations with Motion
+- 📰 Dynamic content via Sanity CMS
+- 🖼 Optimized images with Next.js Image
+- ⚡ SEO-friendly metadata setup
+- 🚀 Deployed on Vercel
 
 ---
 
-## 📂 Project Structure  
+## 📂 Project Structure
 
 ```bash
 app/              # Next.js App Router pages and layouts
@@ -64,11 +64,11 @@ public/           # Static assets (images, icons, preview screenshots)
 
 ---
 
-## 📬 Contact  
+## 📬 Contact
 
-If you’d like to collaborate or hire me:  
+If you’d like to collaborate or hire me:
 
-- 🌐 Portfolio: [my-portfolio-link.com](https://my-portfolio-2ac5ob1mu-basitmaliks-projects-774a8708.vercel.app/)  
-- 💼 LinkedIn: [linkedin.com/in/abdulbasit-codes/](https://www.linkedin.com/in/abdulbasit-codes/)  
-- 🐙 GitHub: [github.com/abdud099](https://github.com/abdud099)  
-- 📧 Email: abdud099@gmail.com  
+- 🌐 Portfolio: [my-portfolio-link.com](https://my-portfolio-2ac5ob1mu-basitmaliks-projects-774a8708.vercel.app/)
+- 💼 LinkedIn: [linkedin.com/in/abdulbasit-codes/](https://www.linkedin.com/in/abdulbasit-codes/)
+- 🐙 GitHub: [github.com/abdud099](https://github.com/abdud099)
+- 📧 Email: abdud099@gmail.com
