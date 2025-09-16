@@ -1,7 +1,6 @@
 # 🚀 Abdul Basit | Tech Portfolio  
 
-![Portfolio Banner](./public/preview.png)  
-*(👆 Replace this with a real screenshot of your portfolio UI — save it as `public/preview.png` and it will show on GitHub automatically.)*  
+![Portfolio Banner](./public/preview.png)   
 
 This is my personal **portfolio website** built with [Next.js](https://nextjs.org), showcasing my **projects, skills, and experience** as a **Full-Stack Developer & Data Scientist**.  
 The project is styled with **Tailwind CSS**, enhanced with **Framer Motion**, and connected with **Sanity CMS** for content management.  
@@ -69,7 +68,7 @@ public/           # Static assets (images, icons, preview screenshots)
 
 If you’d like to collaborate or hire me:  
 
-- 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)  
+- 🌐 Portfolio: [my-portfolio-link.com](https://my-portfolio-2ac5ob1mu-basitmaliks-projects-774a8708.vercel.app/)  
 - 💼 LinkedIn: [linkedin.com/in/abdulbasit-codes/](https://www.linkedin.com/in/abdulbasit-codes/)  
 - 🐙 GitHub: [github.com/abdud099](https://github.com/abdud099)  
-- ✉️ Email: abdud099@gmail.com  
+- 📧 Email: abdud099@gmail.com  
