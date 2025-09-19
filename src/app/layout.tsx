@@ -13,9 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Abdul Basit | Full-Stack Developer & Data Scientist",
+  title: "Abdul Basit | Portfolio",
   description:
-    "Explore Abdul Basit's portfolio showcasing expertise in Next.js, React, TypeScript, Python, FastAPI, PostgreSQL, and AI-driven solutions. Delivering modern, scalable, and user-focused web applications.",
+    "Abdul Basit's portfolio highlights expertise in Next.js other technologies —building modern, scalable web apps.",
 };
 
 export default function RootLayout({
