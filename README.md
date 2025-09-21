@@ -34,13 +34,15 @@ The project is styled with **Tailwind CSS**, enhanced with **Framer Motion**, an
 # 1. Clone repo
 git clone https://github.com/abdud099/portfolio.git
 
-# 2. Install dependencies
+# 2. Move into project directory
+cd portfolio
+
+# 3. Install dependencies
 npm install
 
-# 3. Start development server
+# 4. Start development server
 npm run dev
-pgsql
-Copy code
+
 ```
 
 ---
