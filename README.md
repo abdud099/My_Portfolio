@@ -39,6 +39,12 @@ npm install
 
 # 3. Start development server
 npm run dev
+pgsql
+Copy code
+```
+
+---
+
 ## 🌐 Deployment
 
 Easiest way to deploy is via [Vercel](https://vercel.com):
