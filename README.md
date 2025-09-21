@@ -28,6 +28,17 @@ The project is styled with **Tailwind CSS**, enhanced with **Framer Motion**, an
 
 ---
 
+## 🤸 Quick Start
+
+```bash
+# 1. Clone repo
+git clone https://github.com/abdud099/portfolio.git
+
+# 2. Install dependencies
+npm install
+
+# 3. Start development server
+npm run dev
 ## 🌐 Deployment
 
 Easiest way to deploy is via [Vercel](https://vercel.com):
